@@ -1,0 +1,2 @@
+# mapillary
+Mapillary Coverage Scraper
